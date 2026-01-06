@@ -12,9 +12,9 @@
 - [Controls](#-controls)
 - [Quick Demo](#-working-demo)
 - [Best features](#-features)
-- [Implementation](#-implementation)
-- [UML Diagrams](#-uml-diagrams)
-- [Future improvements](#-future-improvements)
+- [Implementation](#implementation)
+- [UML Diagrams](#uml-diagrams)
+- [Future improvements](#future-improvements)
 
 ## ❓ What is 2048?
 
