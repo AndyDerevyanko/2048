@@ -24,6 +24,10 @@
 
 2048 is a simple numeric sliding-puzzle game. Slide tiles (W/A/S/D) to combine equal numbers into their sum, creating larger and larger powers of two. The goal: build big tiles (2048, 4096, whatever you want) before the board fills and no moves remain.
 
+
+
+
+
 ## 🌟 Controls
 
 **W** - Slide up <br>
@@ -65,7 +69,7 @@ The board class contains many components, they are summarized below:
 - "solver" and "checker" routines: These represent the analysis tools; checker() uses a brute-force approach to simulate move permutations to find the highest reachable tile, while problemsolve() automates the analysis of five preset board configurations
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/AndyDerevyanko/2048/main/images/2048_board.png" alt="blocks list" width="450">
+  <img src="https://raw.githubusercontent.com/AndyDerevyanko/2048/main/images/2048_board.png" alt="2048 board" width="450">
 </p>
 
 ## 👨‍👩‍👧‍👦 UML Diagrams
@@ -73,12 +77,12 @@ UML Diagrams for each object are available below:
 
 ### Board UML Diagram ###
 <p align="left">
-  <img src="https://raw.githubusercontent.com/AndyDerevyanko/2048/main/images/board_uml.png" alt="blocks uml" width="600">
+  <img src="https://raw.githubusercontent.com/AndyDerevyanko/2048/main/images/board_uml.png" alt="board uml" width="600">
 </p>
 
 ### Testing Namespace UML Diagram ###
 <p align="left">
-  <img src="https://raw.githubusercontent.com/AndyDerevyanko/2048/main/images/namespace_uml.png" alt="board UML" width="600">
+  <img src="https://raw.githubusercontent.com/AndyDerevyanko/2048/main/images/test_uml.png" alt="namespace test uml" width="600">
 </p>
 
 ## 🔮 Future Improvements (Maybe)
