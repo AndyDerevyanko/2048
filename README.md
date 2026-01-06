@@ -1,7 +1,7 @@
 <h1 align="center">🟨 2048: Console Edition — A Clean C++ Implementation 🎯</h1>
 
 <p align="center">
-    A compact version of 2048 written in C++: originally created to solve a problem on DMOJ titled "2048", this program supports two different modes: one where you can play the game normally and another that is able to determine the highest acheivable tile for all possible permutations of blah blah blah 
+    A compact version of 2048 written in C++: originally created to solve a problem on DMOJ titled “2048”, this program supports two different modes—one where you can play the game normally, and another that determines the highest achievable tile across all possible permutations of moves from a given board state.
   <br>
   <a href="https://github.com/AndyDerevyanko/2048/issues">Report Bug</a>
   
