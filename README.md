@@ -35,8 +35,11 @@
 
 ## 🎮 Working Demo
 
-Try out a working demo below:
-<script src="//onlinegdb.com/embed/js/cNt4gijgR?theme=dark"></script>
+Try out a working demo [here](https://onlinegdb.com/UQdStOBwL).
+
+<p align="left" style="">
+  <img src="https://raw.githubusercontent.com/AndyDerevyanko/2048/main/images/demo.png" alt="demo" width="300">
+</p>
 
 ## 🧩 Features
 
