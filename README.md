@@ -6,6 +6,7 @@
   <a href="https://github.com/AndyDerevyanko/2048/issues">Report Bug / Request Feature</a>
 </p>
 
+
 ## 📚 Table of Contents
 
 - [What is 2048?](#what-is-2048)
@@ -16,6 +17,7 @@
 - [UML Diagrams](#uml-diagrams)
 - [Future Improvements (Maybe)](#future-improvements-maybe)
 
+<a id="what-is-2048"></a>
 ## ❓ What is 2048?
 
 <img src="https://raw.githubusercontent.com/AndyDerevyanko/2048/main/images/2048_logo.png" width="200" align="left">
@@ -23,6 +25,7 @@
 2048 is a simple numeric sliding-puzzle game. Slide tiles (W/A/S/D) to combine equal numbers into their sum, creating larger and larger powers of two. The goal: build big tiles (2048, 4096, whatever you want) before the board fills and no moves remain.
 <br><br><br><br><br><br><br>
 
+<a id="controls"></a>
 ## 🌟 Controls
 
 **W** - Slide up <br>
@@ -32,6 +35,7 @@
 **!** - Quit program <br>
 **i** - Toggle input mode between *one-by-one* and *series* <br>
 
+<a id="working-demo"></a>
 ## 🎮 Working Demo
 
 Try out a working demo [here](https://onlinegdb.com/UQdStOBwL).
@@ -40,6 +44,7 @@ Try out a working demo [here](https://onlinegdb.com/UQdStOBwL).
   <img src="https://raw.githubusercontent.com/AndyDerevyanko/2048/main/images/demo.png" alt="demo" width="300">
 </p>
 
+<a id="features"></a>
 ## 🧩 Features
 
 - Fully working 2048 implementaiton in console with additional input capabilities and a problem-solver (DMOJ 2048 problem)
@@ -50,6 +55,7 @@ Try out a working demo [here](https://onlinegdb.com/UQdStOBwL).
 - Clear console visualization with simple ASCII board printing
 - No external dependencies
 
+<a id="implementation"></a>
 ## 👨‍💻 Implementation
 
 This program uses OOP. As such, it contains a variety of different objects. The board class manages a 4×4 grid and provides all core 2048 mechanics including shifting, combining, move simulation, and random tile spawning, along with utilities for testing and analyzing boards. The test namespace handles input, display, gameplay loops, and includes a brute-force solver that estimates the highest reachable tile. Users can play interactively, feed scripted move sequences, or run preset boards through the solver for analysis. Everything is implemented with simple ASCII console output. 
@@ -67,8 +73,10 @@ The board class contains many components, they are summarized below:
   <img src="https://raw.githubusercontent.com/AndyDerevyanko/2048/main/images/2048_board.png" alt="2048 board" width="450">
 </p>
 
+<a id="uml-diagrams"></a>
 ## 👨‍👩‍👧‍👦 UML Diagrams
 UML Diagrams for each object are available below:
+
 
 ### Board UML Diagram ###
 <p align="left">
@@ -80,6 +88,7 @@ UML Diagrams for each object are available below:
   <img src="https://raw.githubusercontent.com/AndyDerevyanko/2048/main/images/test_uml.png" alt="namespace test uml" width="600">
 </p>
 
+<a id="future-improvements-maybe"></a>
 ## 🔮 Future Improvements (Maybe)
 - Adding score tracking and a best-score save/load (simple file write)
 - Implementing an undo stack (store last N boards) so player can experiment without losing progress
