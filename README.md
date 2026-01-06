@@ -21,7 +21,7 @@
 <img src="https://raw.githubusercontent.com/AndyDerevyanko/2048/main/images/2048_logo.png" width="200" align="left">
 
 2048 is a simple numeric sliding-puzzle game. Slide tiles (W/A/S/D) to combine equal numbers into their sum, creating larger and larger powers of two. The goal: build big tiles (2048, 4096, whatever you want) before the board fills and no moves remain.
-<br>
+<br><br><br><br><br>
 
 ## 🌟 Controls
 
