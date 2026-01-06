@@ -3,9 +3,7 @@
 <p align="center">
     A compact version of 2048 written in C++: originally created to solve a problem on DMOJ titled “2048”, this program supports two different modes—one where you can play the game normally, and another that determines the highest achievable tile across all possible permutations of moves from a given board state.
   <br>
-  <a href="https://github.com/AndyDerevyanko/2048/issues">Report Bug</a>
-  
-  <a href="https://github.com/AndyDerevyanko/2048/issues">Request Feature</a>
+  <a href="https://github.com/AndyDerevyanko/2048/issues">Report Bug / Request Feature</a>
 </p>
 
 ## 📚 Table of Contents
@@ -23,10 +21,7 @@
 <img src="https://raw.githubusercontent.com/AndyDerevyanko/2048/main/images/2048_logo.png" width="200" align="left">
 
 2048 is a simple numeric sliding-puzzle game. Slide tiles (W/A/S/D) to combine equal numbers into their sum, creating larger and larger powers of two. The goal: build big tiles (2048, 4096, whatever you want) before the board fills and no moves remain.
-
-
-
-
+<br>
 
 ## 🌟 Controls
 
