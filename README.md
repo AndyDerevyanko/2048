@@ -8,13 +8,13 @@
 
 ## 📚 Table of Contents
 
-- [What is 2048?](#-what-is-2048)
-- [Controls](#-controls)
-- [Quick Demo](#-working-demo)
-- [Best features](#-features)
+- [What is 2048?](#what-is-2048)
+- [Controls](#controls)
+- [Working Demo](#working-demo)
+- [Features](#features)
 - [Implementation](#implementation)
 - [UML Diagrams](#uml-diagrams)
-- [Future improvements](#future-improvements)
+- [Future Improvements (Maybe)](#future-improvements-maybe)
 
 ## ❓ What is 2048?
 
